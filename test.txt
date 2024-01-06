@@ -2,4 +2,4 @@ makan
 belajar
 main 
 tidur
-ml
+ml1
